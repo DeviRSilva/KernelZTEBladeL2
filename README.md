@@ -5,4 +5,4 @@ Kernel from ZTE Blade L2 MT6582M
 
 Change Log:
 
--Edited fstab files to interchange the internal memory and Sd Card.
+-Edited fstab files to swap the internal memory with Sd Card.
